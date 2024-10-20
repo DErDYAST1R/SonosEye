@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Document Version="2">
+    <Protection InputFileName="SonosEyeDriver.sys" Options="65736" VMCodeSectionName="PAGE" LicenseDataFileName="SonosEyeDriver.sys" OutputFileName="SonosEyeDriverDx.sys">
+        <Messages>
+            <Message Id="0">.</Message>
+            <Message Id="1">.</Message>
+            <Message Id="2">.</Message>
+            <Message Id="3">.</Message>
+            <Message Id="4">.</Message>
+        </Messages>
+        <Folders />
+        <Procedures>
+            <Procedure MapAddress="Read2(void *,void *,unsigned __int64,unsigned __int64 *)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="Read::ReadMemory(void *,void *,unsigned __int64,unsigned __int64)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="ReadPhysical(unsigned __int64,void *,unsigned __int64,unsigned __int64 *)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="ReadPhysical(void *,void *,unsigned __int64,unsigned __int64 *)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="Write::WriteMemory(void *,void *,unsigned __int64,unsigned __int64)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="write(void *,void *,unsigned __int64,unsigned __int64 *)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="CR3::GetCR3(struct _KPROCESS *)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="DirbaseFromBaseAdress(void *)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="Helper::TranslateLinear(unsigned __int64,unsigned __int64)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="InitMmpfnDatabase(void)" Options="0" CompilationType="2" />
+        </Procedures>
+        <Objects />
+    </Protection>
+    <DLLBox>
+        <Folders />
+    </DLLBox>
+    <Script />
+</Document>
