@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\dnfki\\OneDrive\\Documents\\GitHub\\SonosEye\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC4D086-CD7C-43BA-95D9-14331F89A193}|EDK\\SonosEyeDriver.vcxproj|C:\\Users\\dnfki\\OneDrive\\Documents\\GitHub\\SonosEye\\EDK\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5BC4D086-CD7C-43BA-95D9-14331F89A193}|EDK\\SonosEyeDriver.vcxproj|solutionrelative:EDK\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC4D086-CD7C-43BA-95D9-14331F89A193}|EDK\\SonosEyeDriver.vcxproj|C:\\Users\\dnfki\\OneDrive\\Documents\\GitHub\\SonosEye\\EDK\\Encryption\\Encryption.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5BC4D086-CD7C-43BA-95D9-14331F89A193}|EDK\\SonosEyeDriver.vcxproj|solutionrelative:EDK\\Encryption\\Encryption.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6077CF6D-5AEC-4CBB-A84D-839D5C8967E2}|UsermodeReadRT\\UsermodeReadRT.vcxproj|C:\\Users\\dnfki\\OneDrive\\Documents\\GitHub\\SonosEye\\UsermodeReadRT\\UsermodeReadRT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6077CF6D-5AEC-4CBB-A84D-839D5C8967E2}|UsermodeReadRT\\UsermodeReadRT.vcxproj|solutionrelative:UsermodeReadRT\\UsermodeReadRT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\dnfki\\OneDrive\\Documents\\GitHub\\SonosEye\\EDK\\Main.cpp",
+              "RelativeDocumentMoniker": "EDK\\Main.cpp",
+              "ToolTip": "C:\\Users\\dnfki\\OneDrive\\Documents\\GitHub\\SonosEye\\EDK\\Main.cpp",
+              "RelativeToolTip": "EDK\\Main.cpp",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAAAPQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T23:37:36.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Encryption.hpp",
+              "DocumentMoniker": "C:\\Users\\dnfki\\OneDrive\\Documents\\GitHub\\SonosEye\\EDK\\Encryption\\Encryption.hpp",
+              "RelativeDocumentMoniker": "EDK\\Encryption\\Encryption.hpp",
+              "ToolTip": "C:\\Users\\dnfki\\OneDrive\\Documents\\GitHub\\SonosEye\\EDK\\Encryption\\Encryption.hpp",
+              "RelativeToolTip": "EDK\\Encryption\\Encryption.hpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T23:35:50.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsermodeReadRT.cpp",
+              "DocumentMoniker": "C:\\Users\\dnfki\\OneDrive\\Documents\\GitHub\\SonosEye\\UsermodeReadRT\\UsermodeReadRT.cpp",
+              "RelativeDocumentMoniker": "UsermodeReadRT\\UsermodeReadRT.cpp",
+              "ToolTip": "C:\\Users\\dnfki\\OneDrive\\Documents\\GitHub\\SonosEye\\UsermodeReadRT\\UsermodeReadRT.cpp",
+              "RelativeToolTip": "UsermodeReadRT\\UsermodeReadRT.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T22:18:44.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

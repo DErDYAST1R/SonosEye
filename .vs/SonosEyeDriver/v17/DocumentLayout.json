@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\dnfki\\OneDrive\\Documents\\GitHub\\SonosEye\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C2F662DB-3ED6-47EE-A331-2EBE11AA36C3}|gD\\gdrv-loader.vcxproj|C:\\Users\\dnfki\\OneDrive\\Documents\\GitHub\\SonosEye\\gD\\global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C2F662DB-3ED6-47EE-A331-2EBE11AA36C3}|gD\\gdrv-loader.vcxproj|solutionrelative:gD\\global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5BC4D086-CD7C-43BA-95D9-14331F89A193}|EDK\\SonosEyeDriver.vcxproj|C:\\Users\\dnfki\\OneDrive\\Documents\\GitHub\\SonosEye\\EDK\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5BC4D086-CD7C-43BA-95D9-14331F89A193}|EDK\\SonosEyeDriver.vcxproj|solutionrelative:EDK\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "global.h",
+              "DocumentMoniker": "C:\\Users\\dnfki\\OneDrive\\Documents\\GitHub\\SonosEye\\gD\\global.h",
+              "RelativeDocumentMoniker": "gD\\global.h",
+              "ToolTip": "C:\\Users\\dnfki\\OneDrive\\Documents\\GitHub\\SonosEye\\gD\\global.h",
+              "RelativeToolTip": "gD\\global.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-21T19:59:55.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\dnfki\\OneDrive\\Documents\\GitHub\\SonosEye\\EDK\\Main.cpp",
               "RelativeDocumentMoniker": "EDK\\Main.cpp",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Encryption.hpp",
               "DocumentMoniker": "C:\\Users\\dnfki\\OneDrive\\Documents\\GitHub\\SonosEye\\EDK\\Encryption\\Encryption.hpp",
               "RelativeDocumentMoniker": "EDK\\Encryption\\Encryption.hpp",
@@ -47,12 +64,11 @@
               "RelativeToolTip": "EDK\\Encryption\\Encryption.hpp",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-20T23:35:50.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T23:35:50.825Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UsermodeReadRT.cpp",
               "DocumentMoniker": "C:\\Users\\dnfki\\OneDrive\\Documents\\GitHub\\SonosEye\\UsermodeReadRT\\UsermodeReadRT.cpp",
               "RelativeDocumentMoniker": "UsermodeReadRT\\UsermodeReadRT.cpp",
@@ -60,8 +76,7 @@
               "RelativeToolTip": "UsermodeReadRT\\UsermodeReadRT.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-20T22:18:44.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T22:18:44.261Z"
             }
           ]
         }
